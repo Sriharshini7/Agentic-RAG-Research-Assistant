@@ -1,0 +1,23 @@
+# Core Frameworks
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# Model & Embeddings
+langchain-groq
+langchain-chroma
+sentence-transformers
+huggingface-hub
+torch torchvision
+
+# Data Processing & Storage
+pypdf
+chromadb
+sqlite3
+
+# Environment Management
+python-dotenv
+
+# Utilities
+typing-extensions
